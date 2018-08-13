@@ -42,8 +42,7 @@
               <li class="${currentPage == 'terms' ? 'active' : ''}"><a href="terms.jsp">Terms of Use</a></li>
             </ul>
             <form class="navbar-form navbar-right" action="/login" name="login">
-              <input type="submit" name="student" class="btn btn-login " id="btnStudentLogin" value="Student Login" label="studentLogin">
-              <input type="submit" name="instructor" class="btn btn-login" id="btnInstructorLogin" value="Instructor Login" label="instructorLogin">
+              <input type="submit" name="user" class="btn btn-login " id="btnStudentLogin" value="Login" label="login">
             </form>
           </div>
         </div>
