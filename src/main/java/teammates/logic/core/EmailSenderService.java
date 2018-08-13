@@ -5,6 +5,7 @@ import teammates.common.util.EmailWrapper;
 
 /**
  * An email sender interface used by services for sending emails.
+ * edit on 2018/08/13
  */
 public abstract class EmailSenderService {
 
